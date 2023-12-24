@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Ken Rosenthal",
+            "title": "Yoshinobu Yamamoto: How his contract offers from the Dodgers and Yankees compared - The Athletic",
+            "description": "The Yankees offered the Japanese free-agent pitcher a higher annual average value than the Dodgers.",
+            "url": "https://theathletic.com/5158078/2023/12/22/yoshinobu-yamamoto-yankees-offer/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/12/22165551/GettyImages-1248067635-scaled-e1703282178653.jpg",
+            "publishedAt": "2023-12-23T08:16:15Z",
+            "content": "The New York Yankees lost out on Japanese free-agent right-hander Yoshinobu Yamamoto, but not for lack of effort.\r\nA comparison of the teams offers lends credence to the notion that Yamamoto simply m… [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jesse Sarles",
+            "title": "Elijah McClain death: Paramedics who injected Colorado Black man with ketamine found guilty - CBS News",
+            "description": "A Colorado jury on Friday found two paramedics guilty of criminally negligent homicide in the death of Elijah McClain near his home in Aurora.",
+            "url": "https://www.cbsnews.com/colorado/news/paramedics-elijah-mcclain-death-ketamine-colorado-jury-ruling/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/23/bba44dd7-a73f-4b66-b470-f4c558051b40/thumbnail/1200x630/5d9fc74b56345dda4d76b0d6b5833538/abeyta-6pm-live-and-vo-frame-3837.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2023-12-23T05:56:00Z",
+            "content": "A Colorado jury on Friday found two paramedics guilty of criminally negligent homicide in the death of Elijah McClain near his home in Aurora. The 23-year-old Black man was walking home in 2019 when … [+9620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC15 Arizona"
+            },
+            "author": "abc15.com staff",
+            "title": "RAINFALL TOTALS: How much rain has fallen around the Valley? 12-22-23 - ABC15 Arizona in Phoenix",
+            "description": "Heavy rain has moved through parts of Arizona as a powerful winter storm hits the state",
+            "url": "https://www.abc15.com/news/local-news/rainfall-totals-how-much-rain-has-fallen-around-the-valley-12-22-23",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/deb82dd/2147483647/strip/true/crop/2411x1266+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2Fff%2Fb2472dd94210bc525ff667ecfd3c%2Fscreen-shot-2023-03-15-at-12.29.13%20PM.png",
+            "publishedAt": "2023-12-23T05:03:24Z",
+            "content": "PHOENIX Showers have been widespread across Arizona today as the first strong winter storm of the 2023-2024 season moves through the state.\r\nHow much has fallen in your area in the last 24 hours?\r\nRA… [+748 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Sixers' Embiid ups 30-10 streak to 13 games, downplays ankle injury - ESPN",
+            "description": "Joel Embiid's 30-10 streak is the longest in the NBA since Kareem Abdul-Jabbar did it for 16 straight games in 1971-72.",
+            "url": "https://www.espn.com/nba/story/_/id/39171021/sixers-embiid-ups-30-10-streak-13-games-downplays-ankle-injury",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1223%2Fr1269949_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-23T04:20:00Z",
+            "content": "Dec 22, 2023, 11:20 PM ET\r\nPHILADELPHIA -- Joel Embiid played through an ankle injury to push his 30-10 streak to 13 games, finishing with 31 points and 10 rebounds in the Philadelphia 76ers' 121-111… [+3505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Supreme Court won't weigh in now on Trump's immunity claims in 2020 election case - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/22/trump-supreme-court-immunity-election",
+            "urlToImage": null,
+            "publishedAt": "2023-12-23T03:54:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Tara Suter",
+            "title": "George Conway slams Trump, RNC chair for reported Michigan call: ‘Sleaziest thing ever’ - The Hill",
+            "description": "Conservative lawyer George Conway criticized a reported call made by former President Trump and Republican National Committee chair (RNC) Ronna McDaniel to two Michigan canvassers after the 2020 election Friday, calling it “corrupt.” “It’s crazy and corrupt,”…",
+            "url": "https://thehill.com/homenews/campaign/4374685-george-conway-slams-trump-mcdaniel-reported-michigan-call/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/conwaygeorge_060623ap.jpg?w=1280",
+            "publishedAt": "2023-12-23T03:28:00Z",
+            "content": "Skip to content\r\nConservative lawyer George Conway criticized a reported call made by former President Trump and Republican National Committee chair (RNC) Ronna McDaniel to two Michigan canvassers af… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Patrick Marley, Maegan Vazquez",
+            "title": "Wisconsin Supreme Court rules against GOP-drawn legislative maps - The Washington Post",
+            "description": "The state’s highest court ordered new maps to be created before the 2024 elections in the politically divided state.",
+            "url": "https://www.washingtonpost.com/politics/2023/12/22/wisconsin-supreme-court-legislative-maps-redistricting/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/644B62SNQ7IY3CBPR3YZHGS2CU_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-12-23T03:21:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nThe Wisconsin Supreme Court on Friday overturned Republican-favored legislative maps, ordering new boundary lines for the state less t… [+5289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Reigns attack turns Styles’ match with Sikoa into chaos: SmackDown highlights, Dec. 22, 2023 - WWE",
+            "description": "After two torturous months on the sidelines, The Phenomenal One gets his hands on the menacing Solo Sikoa, the Superstar who attempted to end his career. Cat...",
+            "url": "https://www.youtube.com/watch?v=V7P353LTB5U",
+            "urlToImage": "https://i.ytimg.com/vi/V7P353LTB5U/maxresdefault.jpg",
+            "publishedAt": "2023-12-23T02:57:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US accuses Iran of being ‘deeply involved’ in Houthi attacks in Red Sea - Al Jazeera English",
+            "description": "White House says Tehran is providing Yemeni rebel group with weapons and tactical intelligence.",
+            "url": "https://www.aljazeera.com/news/2023/12/23/us-accuses-iran-of-being-deeply-involved-in-houthi-attacks-in-red-sea",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/2022-01-03T150916Z_87231615_RC2RRR9AP43L_RTRMADP_3_YEMEN-SECURITY-SHIP-1-1703295939.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2023-12-23T02:54:57Z",
+            "content": "The United States has accused Iran of being deeply involved in attacks by Houthi rebels on commercial ships in the Red Sea.\r\nTehrans support for the Yemeni rebel group includes both weapons and tacti… [+2574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOB"
+            },
+            "author": "Christina Rodriguez",
+            "title": "New Mexico braces for new COVID-19 variant amid holiday gatherings - KOB 4",
+            "description": "The New Mexico Department of Health says their biggest concern is a contagious new strain of COVID-19, JN.1.",
+            "url": "https://www.kob.com/new-mexico/new-mexico-braces-for-new-covid-19-variant-amid-holiday-gatherings/",
+            "urlToImage": "https://www.kob.com/wp-content/uploads/2023/12/COVID-FLU-WARNING.jpg",
+            "publishedAt": "2023-12-23T02:09:44Z",
+            "content": "ALBUQUERQUE, N.M. Holiday cheer isnt the only thing going around, health officials want to warn the public about a spike in COVID-19 and the flu.\r\nI know that is tough for people with the holidays, t… [+1356 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten, Jasmine Baehr",
+            "title": "California homeless man found not guilty in attack with pipe on former San Francisco fire commissioner - Fox News",
+            "description": "A California jury on Friday found a homeless man not guilty of beating a former San Francisco fire commissioner with a metal pipe in a brutal attack in April.",
+            "url": "https://www.foxnews.com/us/california-homeless-man-not-guilty-attack-pipe-former-san-francisco-fire-commissioner",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Carmignani-pipe-attack.jpg",
+            "publishedAt": "2023-12-23T01:48:00Z",
+            "content": "Graphic content warning\r\nA homeless man who brutally attacked the former San Francisco fire commissioner was found not guilty on all charges Friday.\r\nGarret Doty, the now 25-year-old homeless man who… [+4843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "Live Coverage: SpaceX to launch Falcon 9 first-stage booster on record-breaking 19th flight – Spaceflight Now - Spaceflight Now",
+            "description": "SpaceX is preparing a Falcon 9 first-stage booster for a record-breaking 19th launch just after midnight as it continues the expansion of its Starlink satellite constellation. Liftoff from pad 40 at C",
+            "url": "https://spaceflightnow.com/2023/12/23/live-coverage-spacex-to-launch-falcon-9-rocket-from-cape-canaveral-with-23-starlink-satellites-2/",
+            "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2023/12/20231222-B1058-Upright-Feature-Image.jpg",
+            "publishedAt": "2023-12-23T00:56:50Z",
+            "content": "Falcon 9 booster 1058 stands ready for launch Friday night at Space Launch Complex 40 at Cape Canaveral Space Force Station. Image: Spaceflight Now.\r\nUpdate 10:30 p.m. EST: SpaceX adjusted the T-0 li… [+2211 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US inflation decelerating in boost to economy - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/us/us-annual-inflation-slows-further-below-3-november-2023-12-22/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-23T00:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "San Francisco Chronicle",
+            "title": "JN.1 COVID variant fuels surge in Bay Area cases ahead of holiday weekend - San Francisco Chronicle",
+            "description": null,
+            "url": "https://www.sfchronicle.com/bayarea/article/covid-bay-area-surge-jn1-symptoms-18570784.php",
+            "urlToImage": null,
+            "publishedAt": "2023-12-23T00:33:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "Alexander Kirk",
+            "title": "Are King Soopers and Safeway open on Christmas Eve or Christmas Day? - 9News.com KUSA",
+            "description": "Many stores will be closed for Christmas Eve and Christmas Day, but there are a few exceptions.",
+            "url": "https://www.9news.com/article/life/holidays/holiday-guide/stores-open-closed-christmas/73-73ff16cd-226b-4190-8f78-71ccdfdece33",
+            "urlToImage": "https://media.9news.com/assets/KUSA/images/3ed53cb2-829c-4b1f-a3b1-4d620da6eea7/3ed53cb2-829c-4b1f-a3b1-4d620da6eea7_1140x641.jpg",
+            "publishedAt": "2023-12-23T00:11:00Z",
+            "content": "DENVER Stores across the United States either close or adjust business hours on holidays like Thanksgiving, Christmas and New Year's Eve.\r\nIn 2020, stores were closed on Thanksgiving and Christmas Ev… [+3153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Philippe Naughton",
+            "title": "Israeli-American Hostage Confirmed Dead in Gaza - The Daily Beast",
+            "description": "Gadi Haggai, 73, was taking a morning walk at his kibbutz on Oct. 7 when Hamas attacked Israel.",
+            "url": "https://www.thedailybeast.com/israeli-american-hostage-gadi-haggai-confirmed-dead-in-gaza",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3043,w_5409,x_0,y_563/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1703257842/2023-10-30T133509Z_578518559_RC2X24A48YJ0_RTRMADP_3_ISRAEL-PALESTINIANS-NIR-OZ_jjx871",
+            "publishedAt": "2023-12-23T00:03:00Z",
+            "content": "An Israeli-American man kidnapped by terror group Hamas along with his wife on Oct. 7 is confirmed to have died in captivity in Gaza. \r\nGadi Haggai, 73, and his American-born wife, Judi Weinstein, 70… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Brett Balicki",
+            "title": "Stunning image shows cosmic ‘Christmas tree’ glowing in space - The Hill",
+            "description": "A space phenomenon is spreading some holiday cheer with what looks like a Christmas tree in the stars.",
+            "url": "https://thehill.com/homenews/space/4370852-stunning-image-shows-cosmic-christmas-tree-glowing-in-space/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/09/ca_nasa_logo_stock-e1703288550969.jpg?w=1280",
+            "publishedAt": "2023-12-22T23:42:00Z",
+            "content": "Skip to content\r\n(WJET/WFXP) — A space phenomenon is spreading some holiday cheer with what looks like a Christmas tree in the stars.\r\nNASA said that a telescope captured an image of NGC 2264, which … [+1266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "On3.com"
+            },
+            "author": "Matt Connolly",
+            "title": "Pete Thamel: SEC, Big Ten playing 'chess game' while monitoring FSU vs. ACC battle - On3.com",
+            "description": "The SEC and Big Ten are 'playing chess' in regards to Florida State, Clemson and the rest of the ACC, according to Pete Thamel.",
+            "url": "https://www.on3.com/news/sec-big-ten-add-florida-state-chess-clemson-acc-leave-schools/",
+            "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2023/07/14173150/sec-championship-logo.jpg",
+            "publishedAt": "2023-12-22T22:34:58Z",
+            "content": "Florida State has made it clear that it wants out of the ACC, but as of now, FSU does not have a landing spot. The SEC and Big Ten could be in play for the Seminoles, but neither conference has expre… [+2424 chars]"
+        }
+    ]
+}
